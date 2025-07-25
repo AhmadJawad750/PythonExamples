@@ -1,0 +1,37 @@
+import os
+
+auction_info = []
+auction = True
+
+def clear():
+    os.system('cls' if os.name == 'nt' else 'clear')
+
+def add_new_bidder(bidder_name, bidder_amount):
+    new_bidder = {"name": bidder_name, "bid": bidder_amount}
+    auction_info.append(new_bidder)
+
+def find_highest_bidder():
+    highest_bid = 0
+    winner = ""
+    for bidder in auction_info:
+        if bidder["bid"] > highest_bid:
+            highest_bid = bidder["bid"]
+            winner = bidder["name"]
+    print(f"\nThe winner is {winner} with a bid of ${highest_bid:.2f}")
+
+def main():
+    while True:
+        clear()
+        print("Welcome to the private bidding auction!")
+        name = input("What is your name?: ").title()
+        bid = float(input("How much would you like to bid?: $"))
+        add_new_bidder(name, bid)
+
+        more_bidders = input("Are there any other bidders? Type 'yes' or 'no': ").lower()
+        if more_bidders != "yes":
+            break
+
+    find_highest_bidder()
+
+if __name__ == "__main__":
+    main()

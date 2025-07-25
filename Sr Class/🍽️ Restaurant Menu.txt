@@ -1,0 +1,36 @@
+🍽️ Restaurant Menu
+🥗 Starters
+Garlic Bread – Rs. 250
+
+Chicken Wings (6 pcs) – Rs. 450
+
+Crispy Fries – Rs. 200
+
+Soup of the Day – Rs. 300
+
+🍕 Main Course
+Margherita Pizza – Rs. 750
+
+Chicken Tikka Pizza – Rs. 900
+
+Grilled Chicken Steak – Rs. 1,200
+
+Alfredo Pasta – Rs. 850
+
+Beef Burger with Fries – Rs. 650
+
+🥤 Drinks
+Mineral Water – Rs. 80
+
+Cold Drink (Can) – Rs. 120
+
+Fresh Lime – Rs. 150
+
+Mint Margarita – Rs. 200
+
+🍰 Desserts
+Chocolate Lava Cake – Rs. 400
+
+Vanilla Ice Cream – Rs. 180
+
+Brownie with Ice Cream – Rs. 450

@@ -1,0 +1,10 @@
+User: I want to order a pizza.
+Bot: Great! What type of pizza would you like? (e.g., Margherita, Pepperoni, Veggie, BBQ Chicken)
+User: Pepperoni
+Bot: What size would you like? (Small, Medium, Large)
+User: Large
+Bot: How many would you like to order?
+User: 2
+Bot: Would you like to add any extra toppings? (e.g., extra cheese, olives, mushrooms)
+User: Extra cheese
+Bot: Perfect! You have ordered 2 Large Pepperoni pizzas with extra cheese. Your order is being prepared!
