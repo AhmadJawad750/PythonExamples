@@ -1,0 +1,10 @@
+Ask the user if they want pepperoni, mushrooms, or other toppings.
+
+Add a cost for each topping.
+
+Hint: They can use if or elif statements for each topping.
+
+
+After checking if it's a leap year, ask the user for a month (e.g., "Enter a month number (1-12):").
+Then, print the number of days in that month for the given year.
+Hint: Remember that February has 29 days in a leap year and 28 in a common year. Months like April, June, September, and November have 30 days. The rest (excluding February) have 31 days. You'll need more if/elif/else statements or perhaps a list/dictionary for month lengths.
